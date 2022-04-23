@@ -4,7 +4,7 @@ Hi
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:cg462@njit.edu) [![linkedin_badge]][https://www.linkedin.com/in/christian-gutierrez-931963228/]  ![Website](https://www.chrisgutie.tech) ![Resume](https://www.chrisgutie.tech/resume3.pdf)
+[![gmail_badge]](mailto:cg462@njit.edu) [![linkedin_badge]][linkedin]  [![Website]](websiteLink) ![Resume](https://www.chrisgutie.tech/resume3.pdf)
 
 ### Top Languages
 <p align="center">
@@ -16,6 +16,12 @@ Hi
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
+
+
+[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin.deboute@gmail.com
+[linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mdeboute
+[linkedin]: https://www.linkedin.com/in/christian-gutierrez-931963228/ 
+[websiteLink]: https://www.chrisgutie.tech
 
 <!--
 - 👋 Hi, I’m @Person1080p
