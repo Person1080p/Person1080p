@@ -1,6 +1,6 @@
 ## About Me
 <p align="center">
-Hi, Currently a ```Junior``` studying Computer science at <a href="https://www.njit.edu">NJIT</a>. Working on projects, and learning new technologies
+Hi, Currently a Junior studying Computer science at <a href="https://www.njit.edu">NJIT</a>. Working on projects, and learning new technologies
 <p>
 
 ## 📧 Contact me
