@@ -1,6 +1,6 @@
-## About Me
+## About Me 👋
 <p align="center">
-Hi, Currently a Junior studying Computer science at <a href="https://www.njit.edu">NJIT</a>. Working on projects, and learning new technologies
+Hi, I'm @Person1080p Currently a Junior studying Computer science at <a href="https://www.njit.edu">NJIT</a>. Figuring out how
 <p>
 
 ## 📧 Contact me
@@ -10,12 +10,16 @@ Hi, Currently a Junior studying Computer science at <a href="https://www.njit.ed
 
 ### Top Languages
 - webscraper kinda made HTML over represented
+
+
 <p align="center">
+    <a href="https://github.com/Person1080p">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Person1080p">
+    </a>
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 <p align="center">
-    <a href="https://github.com/Person1080p"><<img src="https://github-readme-stats.vercel.app/api?username=Person1080p&theme=nord&show_icons=true"></a>
+    <a href="https://github.com/Person1080p"><img src="https://github-readme-stats.vercel.app/api?username=Person1080p&theme=nord&show_icons=true"></a>
     <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
