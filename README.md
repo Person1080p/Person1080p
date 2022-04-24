@@ -8,7 +8,7 @@ Hi, I'm Person1080p and currently a Junior studying Computer science at <a href=
 [![gmail_badge]](mailto:cg462@njit.edu) [![linkedin_badge]][linkedin] ![GitHub followers](https://img.shields.io/github/followers/Person1080p?style=social) [![website]](https://www.chrisgutie.tech)
  [![resume]](https://www.chrisgutie.tech/resume3.pdf)
 
-### Top Languages
+### GitHub Stats
 - webscraper kinda made HTML over represented
 
 
