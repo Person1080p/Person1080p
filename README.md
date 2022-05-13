@@ -9,9 +9,7 @@ Hi, I'm Person1080p and currently a Junior studying Computer science at <a href=
  [![resume]](https://www.chrisgutie.tech/resume3.pdf)
 
 ### GitHub Stats
-- webscraper kinda made HTML over represented
-
-
+- Discrete math had a lot of LaTeX so its kinda big there
 <p align="center">
     <a href="https://github.com/Person1080p">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Person1080p">
